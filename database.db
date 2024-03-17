@@ -1,0 +1,11 @@
+wiki_website/
+│
+├── static/
+│   └── style.css
+│
+├── templates/
+│   ├── index.html
+│   └── page.html
+│
+├── app.py
+└── database.db
